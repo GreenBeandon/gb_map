@@ -1,0 +1,24 @@
+﻿#details-box{
+    width:200px;
+    height:200px;
+    position: absolute;
+    border: 1px solid black;
+    background-color: white;
+    z-index: 5;
+}
+#details-box-title{
+    width:100%;
+    height: 20px;
+}
+.service-location{
+    position: absolute;
+    width:20px;
+    height:20px;
+}
+.service-location-button{
+    width:100%;
+    height:100%;
+    border: none;
+    border-radius: 10px;
+    background-color: grey;
+}
